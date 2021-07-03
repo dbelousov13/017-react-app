@@ -1,11 +1,12 @@
 import "./App.css";
 // import Greeting from "./components/Greeting";
 import React from "react";
-import Counter from "./components/Counter";
+// import Counter from "./components/Counter";
+import Userslist from "./components/UsersList";
 //rfce
 
 function App() {
-  return <Counter />;
+  return <Userslist />;
 }
 
 export default App;
